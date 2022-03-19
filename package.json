@@ -1,5 +1,5 @@
 {
-  "name": "or-child",
+  "name": "OrChild",
   "version": "1.0.0",
   "description": "Project template for a Typescript library",
   "main": "build/main/index.js",
